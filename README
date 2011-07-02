@@ -1,0 +1,11 @@
+This is distributed under the CC Attribution license:
+http://creativecommons.org/licenses/by/3.0/
+
+Just a simple script that take a PPM image as input and spits out a JPG file.
+Usage:
+ppm_to_jpg.py <input_ppm_image> <output_jpg_image_name>
+
+Depends on:
+* PIL
+
+MS@svedersoft.com, 06/08
